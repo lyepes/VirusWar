@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 331105d43d2084a469418ee85bffa801
+timeCreated: 1446488558
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Brazo_Der
+    100002: Brazo_Izq
+    100004: Brazos
+    100006: Cara_Robot1
+    100008: Cintura
+    100010: Cintura_Roboth1
+    100012: Cintura_Roboth2
+    100014: //RootNode
+    100016: Ojo_Der
+    100018: Ojo_Izq
+    100020: Ojos
+    100022: pCylinder1
+    100024: pCylinder10
+    100026: pCylinder2
+    100028: pCylinder3
+    100030: pCylinder4
+    100032: pCylinder5
+    100034: pCylinder6
+    100036: pCylinder7
+    100038: pCylinder8
+    100040: pCylinder9
+    100042: polySurface1
+    100044: polySurface2
+    100046: Torso
+    400000: Brazo_Der
+    400002: Brazo_Izq
+    400004: Brazos
+    400006: Cara_Robot1
+    400008: Cintura
+    400010: Cintura_Roboth1
+    400012: Cintura_Roboth2
+    400014: //RootNode
+    400016: Ojo_Der
+    400018: Ojo_Izq
+    400020: Ojos
+    400022: pCylinder1
+    400024: pCylinder10
+    400026: pCylinder2
+    400028: pCylinder3
+    400030: pCylinder4
+    400032: pCylinder5
+    400034: pCylinder6
+    400036: pCylinder7
+    400038: pCylinder8
+    400040: pCylinder9
+    400042: polySurface1
+    400044: polySurface2
+    400046: Torso
+    2300000: Cara_Robot1
+    2300002: Cintura_Roboth1
+    2300004: Cintura_Roboth2
+    2300006: Ojo_Der
+    2300008: Ojo_Izq
+    2300010: pCylinder1
+    2300012: pCylinder10
+    2300014: pCylinder2
+    2300016: pCylinder3
+    2300018: pCylinder4
+    2300020: pCylinder5
+    2300022: pCylinder6
+    2300024: pCylinder7
+    2300026: pCylinder8
+    2300028: pCylinder9
+    2300030: polySurface1
+    2300032: polySurface2
+    2300034: Torso
+    3300000: Cara_Robot1
+    3300002: Cintura_Roboth1
+    3300004: Cintura_Roboth2
+    3300006: Ojo_Der
+    3300008: Ojo_Izq
+    3300010: pCylinder1
+    3300012: pCylinder10
+    3300014: pCylinder2
+    3300016: pCylinder3
+    3300018: pCylinder4
+    3300020: pCylinder5
+    3300022: pCylinder6
+    3300024: pCylinder7
+    3300026: pCylinder8
+    3300028: pCylinder9
+    3300030: polySurface1
+    3300032: polySurface2
+    3300034: Torso
+    4300000: Torso
+    4300002: Cara_Robot1
+    4300004: pCylinder2
+    4300006: pCylinder1
+    4300008: pCylinder3
+    4300010: pCylinder4
+    4300012: pCylinder5
+    4300014: polySurface1
+    4300016: pCylinder6
+    4300018: pCylinder7
+    4300020: pCylinder8
+    4300022: pCylinder9
+    4300024: pCylinder10
+    4300026: polySurface2
+    4300028: Ojo_Der
+    4300030: Ojo_Izq
+    4300032: Cintura_Roboth1
+    4300034: Cintura_Roboth2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
